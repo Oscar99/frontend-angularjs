@@ -1,0 +1,17 @@
+body {
+    background-image: url("http://www.dalidisco.com/img/fondo_1.jpg");
+   
+}
+.titulos {
+	color: yellow;
+}
+
+a {
+	color: yellow;
+}
+
+.jumbotron {
+background-image: url("http://www.dalidisco.com/img/fondo_1.jpg");
+	color: yellow; 
+
+}
