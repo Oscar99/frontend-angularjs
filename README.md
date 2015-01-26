@@ -24,6 +24,9 @@ sudo bower install
 
 
 ## i/o
+##Go to the page : 
+http://oscar99.github.io/frontend-angularjs.
+
 
 
 
